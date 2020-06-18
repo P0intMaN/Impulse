@@ -15,4 +15,4 @@
 
 - Available for both **Windows** and **Linux**
 
-- **_PRO TIP : When IMPULSE is paired with [PELICAN PORT SCANNER](https://github.com/P0intMaN/Pelican), it becomes the deadliest combo ever.. YOU ARE WELCOME!_**
+- **_PRO TIP : When IMPULSE is paired with [PELICAN PORT SCANNER](https://github.com/P0intMaN/Pelican), it becomes the deadliest combo ever.. You are welcome!_**
