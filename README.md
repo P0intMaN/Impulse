@@ -61,5 +61,6 @@
 
 Make sure that you have following python libraries in your system -->
 
-- **socket** ( install it by typing pip install socket {in terminal or in cmd} )
-- **
+- socket ( install it by typing **pip install socket** {in terminal or in cmd} )
+
+
