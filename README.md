@@ -6,6 +6,8 @@
 
 **_Impulse_** is a clever and easy to use **DOS ( Denial Of Service )** Tool meant to disrupt the service or bring down an online site. Hackers use this technique of **DOSing** and perform it in a huge phenomenal scale with the help of serveral computers (or local programs) also called **BOTNETS**,   that keep on DOSing a particular service (more commonly a site) until that service is down, in a process called **DDOS ( Distributed Denial Of Service ) attack** 
 
+![Screenshot (12)](https://user-images.githubusercontent.com/58041745/85024168-5bff7a80-b193-11ea-914c-be742c9b7265.png)
+
 
 ## DETAILS
 
@@ -26,7 +28,11 @@
 
 - **DOS Interface** executes the **DOS attack**.
 
+![Screenshot (14)](https://user-images.githubusercontent.com/58041745/85024196-67eb3c80-b193-11ea-9f46-ad784752e62f.png)
+
 - Once you have started **DOSing**, you can *terminate* it by simply closing the **_Impule_** Program
+
+![Screenshot (13)](https://user-images.githubusercontent.com/58041745/85024212-6e79b400-b193-11ea-81a8-bb3e3adf7025.png)
 
 
 ## INSTALLATION ON WINDOWS
