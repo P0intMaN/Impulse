@@ -2,12 +2,12 @@
 ###### Developed by Pratheek 'The P0intMaN'
 
 
-# INTRODUCTION
+## INTRODUCTION
 
 **_Impulse_** is a clever and easy to use **DOS ( Denial Of Service )** Tool meant to disrupt the service or bring down an online site. Hackers use this technique of **DOSing** and perform it in a huge phenomenal scale with the help of serveral computers (or local programs) also called **BOTNETS**,   that keep on DOSing a particular service (more commonly a site) until that service is down, in a process called **DDOS ( Distributed Denial Of Service ) attack** 
 
 
-# DETAILS
+## DETAILS
 
 - Just like my [**previous programs**](https://github.com/P0intMaN?tab=repositories), **_Impulse_** also has a similar interface and is relatively very easy to use as compared to other **DOS tools**.
 
@@ -18,7 +18,7 @@
 - **_PRO TIP : When IMPULSE is paired with [PELICAN PORT SCANNER](https://github.com/P0intMaN/Pelican), it becomes the deadliest combo ever.. You are welcome!_**
 
 
-# THE INTERFACE WALKTHROUGH
+## THE INTERFACE WALKTHROUGH
 
 - **_Impulse_** interface is divided into two parts --> **Beginning Interface** and **DOS Interface**
 
@@ -29,7 +29,7 @@
 - Once you have started **DOSing**, you can *terminate* it by simply closing the **_Impule_** Program
 
 
-# INSTALLATION ON WINDOWS
+## INSTALLATION ON WINDOWS
 ###### You need to have Python installed in order to launch **_Impulse_**
 
 - Download the **_Impulse_** packet here from Github as a zip format.
@@ -40,7 +40,7 @@
 
 - **_Impulse_** is ready for some action!!
 
-# INSTALLATION ON LINUX
+## INSTALLATION ON LINUX
 
 - Open **Terminal**
 
@@ -57,4 +57,9 @@
 - **_Impulse_** is ready for some action!!
 
 
-# PREREQUISITE
+## PREREQUISITE
+
+Make sure that you have following python libraries in your system -->
+
+- **socket** ( install it by typing pip install socket {in terminal or in cmd} )
+- **
