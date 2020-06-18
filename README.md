@@ -64,3 +64,22 @@ Make sure that you have following python libraries in your system -->
 - socket ( install it by typing **pip install socket** {in terminal or in cmd} )
 
 
+## SOURCE CODE AND IMPROVEMENTS
+
+Want to improve **_Impulse_**? Then feel free to download my source code and experiment.
+
+The **source code** is attached above (see '*impulse.py*' ) .
+
+**Before downloading**, just message me regarding the same so that I could keep track of the developers trying to improve **_Impulse_** If you want to suggest some necessary changes, then please don't hesitate to contact me.
+
+
+## DISCLAIMER
+
+**_Impulse is an Aggressive tool developed for CyberSecurity purposes. Please don't attack the victims without their permission._**
+
+*Please follow me on Github and dont forget to **'STAR' this project**. I will keep making such projects for you in the future.*
+
+
+## PROUDLY BUILT WITH PYTHON
+
+https://www.python.org
