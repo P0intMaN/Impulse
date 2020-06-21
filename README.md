@@ -72,11 +72,14 @@ Make sure that you have following python libraries in your system -->
 
 ## SOURCE CODE AND IMPROVEMENTS
 
-Want to improve **_Impulse_**? Then feel free to download my source code and experiment.
+Want to improve **_Impulse_** ? Then feel free to download my source code and experiment.
 
-The **source code** is attached above (see '*impulse.py*' ) .
+The **source code** is attached above (see 'impulse.py' ) .
 
-**Before downloading**, just message me regarding the same so that I could keep track of the developers trying to improve **_Impulse_** If you want to suggest some necessary changes, then please don't hesitate to contact me.
+**Before downloading**, **_Follow me_** as I would only allow my **_Follower full access to my codes_** and **to improve** **_Impulse_**
+
+If you want to suggest some necessary changes, then please don't hesitate to contact me.
+
 
 
 ## DISCLAIMER
