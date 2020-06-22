@@ -42,8 +42,12 @@
 
 - Extract it and navigate to your desired location.
 
-- Execute cmd and type **python impulse.py**
+- Execute cmd and type :
 
+```
+> pip3 install -r requirements.txt
+> python impulse.py
+```
 - **_Impulse_** is ready for some action!!
 
 ## INSTALLATION ON LINUX
