@@ -54,15 +54,15 @@
 
 - Open **Terminal**
 
-- Type **git clone** ( and paste the Impulse clone url from Github )
-
-- Type the following ---->
-
-- **cd Impulse**
-
-- **ls**
-
-- **python3 impulse.py**
+- Type:
+ ```
+$ git clone https://github.com/P0intMaN/Impulse.git
+$ chmod +x requirements.txt
+$ sudo pip3 install -r requirements.txt
+$ cd Impulse
+$ ls
+$ python3 impulse.py
+ ```
 
 - **_Impulse_** is ready for some action!!
 
