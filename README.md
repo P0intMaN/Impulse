@@ -67,13 +67,6 @@ $ python3 impulse.py
 - **_Impulse_** is ready for some action!!
 
 
-## PREREQUISITE
-
-Make sure that you have following python libraries in your system -->
-
-- socket ( install it by typing **pip install socket** {in terminal or in cmd} )
-
-
 ## SOURCE CODE AND IMPROVEMENTS
 
 Want to improve **_Impulse_** ? Then feel free to download my source code and experiment.
