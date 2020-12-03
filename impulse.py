@@ -6,6 +6,7 @@ import os
 from progress.spinner import Spinner 
 
 
+
 os.system('cls')
 ss = 0
 iip = "123.432.34.5"
@@ -22,10 +23,8 @@ def banner():
                         ██ ██      ██ ██       ██████  ███████ ███████ ███████ 
                                                                \u001b[93m  version 1.2.5 \u001b[0m
                                             
-                                          \u001b[32m Developed by:\u001b[31m Pratheek 'THE P0intMaN'\u001b[0m
+                                          \u001b[32m Developed by:\u001b[31m'THE P0intMaN'\u001b[0m
                                                        
-              \u001b[35m +-+-+-+-+-+-+-+-+ DO NOT COPY THE CODE WITHOUT PRIOR CONSENT +-+-+-+-+-+-+
-               -+-+-+-+-+-+-+-+-+- PLEASE RESPECT DEVELOPERS AND THEIR WORK :) +-+-+-+-+-  \u001b[0m
 
                        \u001b[34mTo know more about Impulse, visit www.github.com/P0intMaN/Impulse\u001b[0m
 
