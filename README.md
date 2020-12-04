@@ -73,8 +73,7 @@ Want to improve **_Impulse_** ? Then feel free to download my source code and ex
 
 The **source code** is attached above (see 'impulse.py' ) .
 
-**Before downloading**, **_Follow me_** as I would only allow my **_Followers full access to my codes_** and **to improve** **_Impulse_**. So **_Developers_**
-, go ahead follow me and help improve **_Impulse_** 😅
+**Before downloading**, conisder **_Following me_** as It would motivate me to do more.  So **_Developers_**, go ahead follow me and help improve **_Impulse_** 👍
 
 If you want to suggest some necessary changes, **then please don't hesitate to contact me.**
 
